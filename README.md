@@ -50,57 +50,19 @@ Python • C++ • JavaScript • TypeScript • SQL
 
 ### AI
 
-LLMs
-
-RAG
-
-TensorFlow
-
-Scikit-Learn
-
-LangChain
-
-OpenCV
-
-Pinecone
+LLMs RAG TensorFlow Scikit-Learn LangChain OpenCV Pinecone
 
 ### Backend
 
-Node.js
-
-Express
-
-FastAPI
-
-REST APIs
-
-Redis
-
-PostgreSQL
-
-MongoDB
-
-Prisma
+Node.js Express FastAPI REST APIs Redis PostgreSQL MongoDB Prisma
 
 ### Frontend
 
-Next.js
-
-React
-
-TailwindCSS
-
-TypeScript
+Next.js React TailwindCSS TypeScript
 
 ### DevOps
 
-Docker
-
-Git
-
-GitHub Actions
-
-Vercel
+Docker Git GitHub Actions Vercel
 
 ---
 
@@ -112,21 +74,11 @@ AI Workflow Builder
 
 Create and execute node-based AI workflows using drag-and-drop.
 
-Tech
+Tech Stack: Next.js Prisma Gemini React Flow PostgreSQL
 
-Next.js
+🔗 Live : https://galaxy-ai-murex.vercel.app/
 
-Prisma
-
-Gemini
-
-React Flow
-
-PostgreSQL
-
-🔗 Live
-
-🔗 GitHub
+🔗 GitHub : https://github.com/S4M-0403/NextFlow
 
 ---
 
@@ -136,9 +88,7 @@ Real-time Sign Language Translator
 
 Computer Vision + WebRTC + Deep Learning
 
-🔗 Live
-
-🔗 GitHub
+🔗 GitHub : https://github.com/S4M-0403/signSpeak
 
 ---
 
@@ -177,29 +127,17 @@ AI / ML Intern
 ✓ Looking for Software Engineering opportunities
 ```
 
----
-
-# GitHub Stats
-
-<!-- GitHub Readme Stats -->
-
-<!-- Streak -->
-
-<!-- Activity Graph -->
-
----
-
 # Connect
 
-Portfolio
+Portfolio : https://portfolio-s4m.vercel.app/
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/shikhar-maheshwari0403/
 
-Email
+Email : shikharmaheshwari0403@gmail.com
 
-Resume
+Resume : https://drive.google.com/file/d/1BqgUHd7eS4uKlrl4XBJszSWzS_iRvXO2/view?usp=drive_link
 
-LeetCode
+LeetCode: https://leetcode.com/u/shikhars4m/
 
 ---
 
