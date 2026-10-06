@@ -1,7 +1,7 @@
 <!-- ====================================================== -->
 <!--                     HERO SECTION                       -->
 <!-- ====================================================== -->
-
+![Profile Views](https://komarev.com/ghpvc/?username=S4M-0403&style=for-the-badge&color=blueviolet)
 <h1 align="center">Shikhar Maheshwari</h1>
 
 <p align="center">
